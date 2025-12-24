@@ -1,5 +1,6 @@
-# restaraunt-market-analysis
-Exploratory data analysis of U.S. restaraunt chains (Top 250, Independence 100, Future50)
+# restaurant-market-analysis
+
+Exploratory data analysis of U.S. restaurant chains (Top 250, Independence 100, Future50)
 
 ## Project Overview
 This project analyzes growth patterns of restaurant chains across different segments
@@ -23,6 +24,13 @@ The analysis is based on three datasets:
 - `Independence100.csv` — independent operators
 - `Future50.csv` — fast-growing emerging brands
 
+The datasets originate from a publicly available Kaggle source and are used
+strictly for educational and analytical purposes.
+
+Source:
+-
+https://www.kaggle.com/datasets/michau96/restaurant-business-rankings-2020
+
 All datasets are stored in the `data/` directory and are used for educational and analytical purposes.
 
 ## Methodology
@@ -39,5 +47,5 @@ identifying strategic levers that influence growth and understanding their limit
 ## Tools
 - Python
 - Pandas
-- Matplotlib
-- Seaborn
+- Matplotlib/Seaborn
+
