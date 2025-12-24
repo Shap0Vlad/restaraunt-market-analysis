@@ -24,8 +24,7 @@ The analysis is based on three datasets:
 - `Independence100.csv` — independent operators
 - `Future50.csv` — fast-growing emerging brands
 
-The datasets originate from a publicly available Kaggle source and are used
-strictly for educational and analytical purposes.
+The datasets originate from a publicly available Kaggle.
 
 Source:
 -
