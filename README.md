@@ -48,4 +48,3 @@ identifying strategic levers that influence growth and understanding their limit
 - Pandas
 - Numpy
 - Matplotlib/Seaborn
-
