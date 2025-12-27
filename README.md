@@ -48,3 +48,20 @@ identifying strategic levers that influence growth and understanding their limit
 - Pandas
 - Numpy
 - Matplotlib/Seaborn
+
+## Key Business Insights
+
+1. Revenue growth is positively associated with network expansion,
+   but the relationship weakens as brands scale.
+
+2. Segments focused on operational efficiency often outperform
+   aggressive expansion strategies in terms of sales per unit.
+
+3. Larger networks tend to experience diminishing returns per unit,
+   indicating rising complexity and coordination costs.
+
+4. Franchised models demonstrate more consistent average growth
+   compared to non-franchised operators.
+
+5. High-performing units do not necessarily scale faster,
+   suggesting that local success is not always replicable.
